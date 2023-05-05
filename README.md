@@ -1,5 +1,5 @@
 <div>
-        <h2 align="left">About me</h2>
+        <h1 align="center" >Roshan Barkane (Developer)</h1>
         Hey 👋 What's up ?<br>My name is Roshan Barkane and I'm a 2rd year student Computer Science, from Mandideep.<br><br>
         ✨ Creater and Developer<br>
         <img align="right" alt="Coding image" width="400" src="https://user-images.githubusercontent.com/132500070/236473554-394bd10e-bbd6-43ab-a338-f6ae7bea564d.png">
@@ -48,7 +48,7 @@
   <div >
               <h3 align="left">📊 GitHub Stats:</h3>
            <p>
-              <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-3dot&show_icons=true&locale=en&layout=compact" alt="roshan-3dot" />
+              <img style="background-color:black"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-3dot&show_icons=true&locale=en&layout=compact" alt="roshan-3dot" />
             </p>
            <p>&nbsp;
               <img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-3dot&show_icons=true&locale=en" alt="roshan-3dot" />
