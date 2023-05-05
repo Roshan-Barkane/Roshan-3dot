@@ -2,12 +2,12 @@
         <h2 align="left">About me</h2>
         Hey 👋 What's up ?<br>My name is Roshan Barkane and I'm a 2rd year student Computer Science, from Mandideep.<br><br>
         ✨ Creater and Developer<br>
+        <img align="right" alt="Coding image" width="400" src="https://user-images.githubusercontent.com/132500070/236473554-394bd10e-bbd6-43ab-a338-f6ae7bea564d.png">
         📚 I'm currently learning Flutter in Dart<br>
         🎯 Goals: Design & Developed App/Web<br>
         🎲 Fun fact: I an funny boys<br><br>
         - 📫 How to reach me ** roshanbarkhane987@gmail.com **
 </div>
---------------------------------------------------------------------------------------------------------------------------------<br>
 🌐 Connect with 
         <p align="left">
         <a href="https://linkedin.com/in/roshan barkane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan barkane" height="30" width="40" /></a>
@@ -45,7 +45,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
         </a> 
         </p> 
-        <div style="display: block">
+  <div >
               <h3 align="left">📊 GitHub Stats:</h3>
            <p>
               <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-3dot&show_icons=true&locale=en&layout=compact" alt="roshan-3dot" />
