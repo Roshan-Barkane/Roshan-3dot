@@ -49,7 +49,7 @@
               <h3 align="left">📊 GitHub Stats:</h3>
            <p>
               <img style="background-color:black"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-3dot&show_icons=true&locale=en&layout=compact" alt="roshan-3dot" />
-            </p>
+            </p> <br>
            <p>&nbsp;
               <img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-3dot&show_icons=true&locale=en" alt="roshan-3dot" />
             </p>
