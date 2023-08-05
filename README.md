@@ -1,6 +1,6 @@
 <div>
-        <h1 align="center" >Roshan Bauddha (Developer)</h1>
-        Hey 👋 What's up ?<br>My name is Roshan Bauddh and I'm a 2rd year student Computer Science, from Mandideep.<br><br>
+        <h1 align="center" >Roshan Barkane (Developer)</h1>
+        Hey 👋 What's up ?<br>My name is Roshan Barkane and I'm a 2rd year student Computer Science, from Mandideep.<br><br>
         ✨ Creater and Developer<br>
         <img align="right" alt="Coding image" width="400" src="https://user-images.githubusercontent.com/132500070/236473554-394bd10e-bbd6-43ab-a338-f6ae7bea564d.png">
         📚 I'm currently learning Flutter in Dart<br>
